@@ -7,5 +7,3 @@ translate.key = process.env.DB_PASS;
 translate('I am sitting with Harrison in a room.', 'mi').then(text => {
     console.log(text);
   });
-
-// functional programming DO NOT USE CLASSES
